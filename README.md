@@ -88,7 +88,7 @@ TinyBase offers a lightweight, reactive data store for building local-first apps
 
 **Tech Stack:** Convex, React, TypeScript
 
-Exploring local-first patterns with Convex's backend-as-a-service platform.
+Exploring local-first patterns with Convex's backend-as-a-service platform. It is more of a BaaS solution that provides serverless functions and real-time data sync. Their approach is not exactly local-first but can be adapted for local-first patterns.
 
 **Key Features:**
 
